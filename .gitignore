@@ -1,0 +1,7 @@
+# documents & data (large or derived)
+data/
+report/*.docx
+report/*.tex
+*.aux
+*.log
+.DS_Store
